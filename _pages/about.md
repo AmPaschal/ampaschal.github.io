@@ -10,18 +10,10 @@ redirect_from:
 ---
 
 Hi, I'm Paschal *(pas-kal)*.  
-I'm a PhD student at Purdue University's Elmore Family School of Electrical and Computer Engineering, currently advised by [Prof Jamie Davis](https://davisjam.github.io/) and [Prof Aravind Machiry](https://machiry.github.io/).
+I am a fifth-year PhD candidate at Purdue University's School of Electrical and Computer Engineering, currently advised by [Prof Jamie Davis](https://davisjam.github.io/).
 
-## Research Interests
-My research sits at the intersection of software engineering, security, and embedded systems. I use various static and dynamic analysis techniques to design novel vulnerability detection and software defense systems. My research has been published at [ASE 2023](https://ieeexplore.ieee.org/abstract/document/10298483), [DSN 2023](https://ieeexplore.ieee.org/abstract/document/10206998), [Arxiv 2023](https://arxiv.org/abs/2310.14117) and [ESEC/FSE 2022](https://dl.acm.org/doi/abs/10.1145/3540250.3560879).
-
-## Personal
-Fun facts about me
-- I love discussing politics, startups, and strategies. 
-- I can hardly resist an invitation to join a road trip or visit a new city.
-- If I'm not working or reading, I am probably watching a movie.
-- I am scared of heights 😩.
-- I am passionate about Nigeria, and Africa.
+My research focuses on understanding cybersecurity vulnerabilities in embedded systems and designing novel techniques to detect or defend against them.
+My work have helped discover 26 vulnerabilities in widely-used embedded software, and have been published at top Software Engineering (ASE 2023, ICSE 2025, ICSE 2026) and Cybersecurity (DSN 2023, USENIX Security 2025) venues.
 
 ## Recent News
 - **Sept 2023:** I will be attending *ASE 2023* at Luxembourg, through an ACM-funded SIGSOFT travel grant.
